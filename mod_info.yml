@@ -1,0 +1,10 @@
+mod_info:
+#  description_file: README.md
+  summary: Managment for RailLogisticsDispatcher
+  title: RailLogisticsDispatcher manager
+  attach_source_link: true
+  license: mit
+  category: localizations
+  tags:
+    - logistics
+    - trains
